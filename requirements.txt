@@ -1,0 +1,9 @@
+requests
+Pillow
+pandas
+openpyxl
+opencv-python
+imagehash
+tensorflow
+scikit-learn
+pytesseract
